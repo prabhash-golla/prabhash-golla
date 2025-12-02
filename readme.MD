@@ -32,13 +32,13 @@
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vim,cmake&theme=dark">
+      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark">
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,mint&theme=dark">
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark">
+      <img src="https://skillicons.dev/icons?i=git,github&theme=dark">
     </td>
   </tr>
 </table>
@@ -52,7 +52,7 @@
 <table style="width: 100%; text-align: center; border-collapse: collapse;">
   <tr>
   
-  <td style="width: 50%; padding: 10px; text-align: center;">
+  <td align="center" style="width: 50%; padding: 10px; text-align: center;">
       <h3>Codeforces Info</h3>
       <img src="https://codeforces-readme-stats.vercel.app/api/card?username=chinnu0312&theme=transparent&border_radius=10" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     </td>
